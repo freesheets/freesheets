@@ -1,7 +1,7 @@
 - 🔭Hoje trabalho com back-end..
 - 🌱 Estudando C#, Angular e TypeScript
 
-## Olá meu nome é Bruno, sou Desenvolvedor FullStack!
+## Olá sou Desenvolvedor FullStack!
 
 <div align="center">
   <a href="https://github.com/freesheets">
