@@ -1,7 +1,7 @@
 <div>
    <p>
       <a href="">
-         <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/aadec681-3fd3-49ae-bc03-739a11132851" />
+         <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/75f7f11a-6b87-4f38-80ae-1d820740534e" />
       </a>
    </p>
    <p align="right">
@@ -16,14 +16,6 @@
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Software+Developer;Back-end+Developer+%7C+C%23+%26+.NET;Full+Stack+Developer;Angular+%7C+React+%7C+TypeScript;Transformando+ideias+em+solu%C3%A7%C3%B5es+reais" alt="Typing SVG" /> </a> </p>
 
 ###
-
-Olá! Meu nome é Bruno e sou desenvolvedor de software, atuando na criação, manutenção e evolução de sistemas e aplicações web.
-
-Atualmente, meu foco está no desenvolvimento Back-end com C# e .NET, trabalhando na implementação de regras de negócio, APIs, integrações e soluções voltadas para aplicações corporativas. Também possuo experiência com desenvolvimento Front-end utilizando Angular, TypeScript, React, JavaScript, HTML e CSS, permitindo uma atuação Full Stack no desenvolvimento de aplicações completas.
-
-Tenho interesse constante em arquitetura de software, boas práticas de desenvolvimento, APIs, bancos de dados e construção de soluções escaláveis e de fácil manutenção. Utilizo este GitHub para compartilhar projetos, estudos e experimentos relacionados ao desenvolvimento de software.
-
-Busco continuamente aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver soluções que transformem necessidades reais em aplicações eficientes.
 
 ## 🛠️ Principais Habilidades
 
